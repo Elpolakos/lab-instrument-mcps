@@ -1,6 +1,6 @@
 # 🧪 lab-instrument-mcps - Control Real Lab Equipment with AI
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-blueviolet?style=for-the-badge)](https://github.com/Elpolakos/lab-instrument-mcps)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-blueviolet?style=for-the-badge)](https://github.com/Elpolakos/lab-instrument-mcps/releases)
 
 ## 👋 Welcome to lab-instrument-mcps
 
@@ -41,7 +41,7 @@ Built entirely in Python, one of the most popular and flexible programming langu
 
 ### Step 1: Download the Software
 
-Visit this link to download the application: **[https://github.com/Elpolakos/lab-instrument-mcps](https://github.com/Elpolakos/lab-instrument-mcps)**
+Visit this link to download the application: **[https://github.com/Elpolakos/lab-instrument-mcps/releases](https://github.com/Elpolakos/lab-instrument-mcps/releases)**
 
 The download page will show you all available versions. Look for the latest release and click the download button. The file will be saved to your computer.
 
